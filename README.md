@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&vCenter=true&random=false&width=1300&height=140&lines=Hi 👋;I'm%2C Full+Stack+Web+Developer%E2%9C%A9" width="70%" />
+
 <h1 align="center">Hi 👋, I'm A.K.S.THIRUMURUGAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
