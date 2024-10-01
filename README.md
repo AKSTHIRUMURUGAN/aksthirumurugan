@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Thiru 👋 I'm a 🚀 FullStack developer 🚀 I ❤️ coding ❤️">
+</p>
 <h1 align="center">Hi 👋, I'm A.K.S.THIRUMURUGAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
