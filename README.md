@@ -187,9 +187,9 @@ me.say_hi()
 <div align="center">
   <table>
     <tr>
-      <td>
+      <!-- <td>
         <img src="https://github-readme-stats.vercel.app/api?username=aksthirumurugan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" alt="GitHub Stats" />
-      </td>
+      </td> -->
       <td>
         <img src="https://streak-stats.demolab.com/?user=aksthirumurugan&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
       </td>
@@ -200,11 +200,11 @@ me.say_hi()
 <br>
 
 <!-- Top Languages -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksthirumurugan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
-<br>
+<br> -->
 
 <!-- Activity Graph -->
 <div align="center">
